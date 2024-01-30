@@ -1,5 +1,1 @@
-Participar da imersão frontend da Alura foi uma jornada incrível! Ao criar a réplica do site do Spotify, mergulhei de cabeça no universo do HTML, CSS, React e Angular. A experiência prática foi fundamental para consolidar o conhecimento teórico, e a interação entre essas tecnologias me fez perceber como elas se complementam na construção de interfaces web incríveis.
 
-Ao final, não foi apenas sobre códigos e linguagens de programação, mas também sobre entender como essas ferramentas se encaixam para criar experiências de usuário cativantes e responsivas. A imersão não só aprimorou minhas habilidades técnicas, mas também me deu confiança para encarar projetos mais desafiadores no desenvolvimento frontend.
-
-A sensação de ver o projeto finalizado, uma réplica do Spotify que eu mesmo construí, é indescritível. Sinto-me mais preparado para enfrentar os próximos passos na minha jornada como desenvolvedor web, sabendo que posso aplicar o que aprendi de forma prática e inovadora. A imersão na Alura não foi apenas uma aula, foi uma experiência que moldou minha compreensão do desenvolvimento frontend, tornando-me mais capacitado e entusiasmado para futuros desafios.
